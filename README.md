@@ -12,3 +12,4 @@
 ### git diff --staged: Mostra todas as modificações feitas e salvas após o git add
 ### git commit -m "título informativo": Salva o repositório com todas as suas modificações
 #### Obs: Após ser commitado o repositório sai da área Source Control no VSC
+### git log: Mostra todo histórico de commits de um repositório
