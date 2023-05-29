@@ -14,4 +14,8 @@
 #### Obs: Após ser commitado o repositório sai da área Source Control no VSC
 ### git log: Mostra todo histórico de commits de um repositório
 ### git restore: Restaura o repositório para o mais atual commitado.
-### ### git restore: Restaura o repositório para o mais atual commitado após ser dado o comando git add.
+### git restore: Restaura o repositório para o mais atual commitado após ser dado o comando git add.
+### git push: Envia um repositório local para um repositório remoto (ex: GitHub)
+### git pull: Baixa um repositorio romoto já salvo no pc
+### git remote: Verificar o nome dos repositórios remotos salvos no git
+### git remote -v: Verificar o endereço dos resporitórios remotos salvos no pc
